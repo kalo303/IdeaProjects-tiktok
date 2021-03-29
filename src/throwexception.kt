@@ -50,15 +50,15 @@
 //}
 
 
-fun main(){
- // created the object of class student
-    val stu=Student("khalid",21)
-
-    println("student name:${stu.name}")
-    println("student age:${stu.age}")
-}
-
-class Student(val name: String,var age: Int){
-    //this is my class
-}
+//fun main(){
+// // created the object of class student
+//    val stu=Student("khalid",21)
+//
+//    println("student name:${stu.name}")
+//    println("student age:${stu.age}")
+//}
+//
+//class Student(val name: String,var age: Int){
+//    //this is my class
+//}
 
